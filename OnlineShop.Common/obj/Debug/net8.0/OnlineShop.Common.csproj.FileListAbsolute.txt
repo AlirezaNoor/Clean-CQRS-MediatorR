@@ -1,0 +1,11 @@
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Common\bin\Debug\net8.0\OnlineShop.Common.deps.json
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Common\bin\Debug\net8.0\OnlineShop.Common.dll
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Common\bin\Debug\net8.0\OnlineShop.Common.pdb
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Common\obj\Debug\net8.0\OnlineShop.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Common\obj\Debug\net8.0\OnlineShop.Common.AssemblyInfoInputs.cache
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Common\obj\Debug\net8.0\OnlineShop.Common.AssemblyInfo.cs
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Common\obj\Debug\net8.0\OnlineShop.Common.csproj.CoreCompileInputs.cache
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Common\obj\Debug\net8.0\OnlineShop.Common.dll
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Common\obj\Debug\net8.0\refint\OnlineShop.Common.dll
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Common\obj\Debug\net8.0\OnlineShop.Common.pdb
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Common\obj\Debug\net8.0\ref\OnlineShop.Common.dll

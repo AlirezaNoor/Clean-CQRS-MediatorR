@@ -1,0 +1,17 @@
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\bin\Debug\net8.0\OnlineShop.Persistence.deps.json
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\bin\Debug\net8.0\OnlineShop.Persistence.runtimeconfig.json
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\bin\Debug\net8.0\OnlineShop.Persistence.dll
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\bin\Debug\net8.0\OnlineShop.Persistence.pdb
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\bin\Debug\net8.0\OnlineShop.Domain.dll
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\bin\Debug\net8.0\OnlineShop.Domain.pdb
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.csproj.AssemblyReference.cache
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.AssemblyInfoInputs.cache
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.AssemblyInfo.cs
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.csproj.CoreCompileInputs.cache
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.csproj.CopyComplete
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.dll
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\refint\OnlineShop.Persistence.dll
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.pdb
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.genruntimeconfig.cache
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\ref\OnlineShop.Persistence.dll

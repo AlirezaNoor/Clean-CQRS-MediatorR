@@ -1,0 +1,6 @@
+@OnilneShop.Apis_HostAddress = http://localhost:5084
+
+GET {{OnilneShop.Apis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,17 @@
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Application.deps.json
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Application.dll
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Application.pdb
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Common.dll
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Domain.dll
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Common.pdb
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Domain.pdb
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.csproj.AssemblyReference.cache
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.AssemblyInfoInputs.cache
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.AssemblyInfo.cs
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.csproj.CoreCompileInputs.cache
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.csproj.CopyComplete
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.dll
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\refint\OnlineShop.Application.dll
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.pdb
+F:\Courses\MyCourse\MediatR CQRS Clean\Project\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\ref\OnlineShop.Application.dll
